@@ -1,3 +1,10 @@
 body {
     background-color: #ffb058;
 }
+
+p {
+    color: brown;
+}
+h2 {
+    font-size: 50px; /* шрифт */
+}
